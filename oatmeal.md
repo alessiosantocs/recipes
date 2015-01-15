@@ -1,3 +1,5 @@
+# Awesome sugar-free Oatmeal recipes
+
 ### Cooking oatmeal
 The basic recipe is 1/2 cup of oats, 1 cup of water and 1 pinch of salt. Start cooking with strong heat and decrease from there.
 
