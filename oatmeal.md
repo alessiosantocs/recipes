@@ -1,7 +1,9 @@
 # Warmy morning sugar-free oatmeal
 
 ### Cooking oatmeal
-The basic recipe is 1/2 cup of oats, 1 cup of water and 1 pinch of salt. Start cooking with strong heat and decrease from there.
+The basic recipe is 1/2 cup of oats, 1 cup of water/milk-of-choice and 1 pinch of salt. The best way I found is by the oatmeal artist: bring water/milk-of-choice to boil then add oats and decrese heat to medium.
+
+It will make one fulfilling cup of oatmeal.
 
 ## Coconut Raisin Oatmeal
 ##### Ingredients
@@ -17,6 +19,13 @@ The basic recipe is 1/2 cup of oats, 1 cup of water and 1 pinch of salt. Start c
 - 1 pinch of vanilla extract (or 1 pinch of vanilla powder)
 - 3 nuts (optional)
 - 1/2 cup greek yogurt
+
+## Forked almond joy
+I loved oatmealartist's almond joy oatmeal. I decided to fork it here to make my own version.
+##### Ingredients
+- 3 tablespoons of unsweeetened cocoa powder (organic is better!)
+- 1 ripe banana
+- 
 
 ##### Instructions
 Use a half banana to prepare some sort of banana syrup (it's actually water that tastes like bananas) using a small pan and some water.
