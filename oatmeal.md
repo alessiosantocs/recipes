@@ -11,7 +11,7 @@ The basic recipe is 1/2 cup of oats, 1 cup of water and 1 pinch of salt. Start c
 - 3 tablespoons of milk
 - 1/2 cup of ground bran
 
-## Banana Vanilla Oatmeal
+## Ba-nilla Oatmeal
 ##### Ingredients
 - 1 big ripe banana
 - 1 pinch of vanilla extract (or 1 pinch of vanilla powder)
