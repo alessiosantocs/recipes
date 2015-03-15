@@ -25,7 +25,6 @@ I loved oatmealartist's almond joy oatmeal. I decided to fork it here to make my
 ##### Ingredients
 - 3 tablespoons of unsweeetened cocoa powder (organic is better!)
 - 1 ripe banana
-- 
 
 ##### Instructions
 Use a half banana to prepare some sort of banana syrup (it's actually water that tastes like bananas) using a small pan and some water.
@@ -33,6 +32,13 @@ Cook the oats as usual using the banana syrup. Add nuts and vanilla.
 Cook the other hakf of a banana in the oven or microwave as is. When really creamy take it out.
 Serve in a cup and add the cooked banana on top and a bit of vanilla powder and some nuts if you want.
 
+## Strawberry goat cheese oatmeal
+### Ingredients
+- 2 strawberries
+- 1/2 cup water and 1/2 cup goat milk
+- 1/2 cup creamy goat cheese
+- cinnamon
+- walnuts (optional)
 
 # Lovely overnight sugar-free oatmeal
 Yes, overnight! No need to cook or boil stuff. Oats will slowly cook themself in the fridge!
