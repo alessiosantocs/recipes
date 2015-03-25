@@ -40,6 +40,14 @@ Serve in a cup and add the cooked banana on top and a bit of vanilla powder and 
 - cinnamon
 - walnuts (optional)
 
+## Dates spiced goat cheese oatmeal
+### Ingredients
+- 1 date for recipe 1 for topping
+- Pumpkin spice
+- Cinnamon
+- Black/white pepper
+- goat milk
+
 # Lovely overnight sugar-free oatmeal
 Yes, overnight! No need to cook or boil stuff. Oats will slowly cook themself in the fridge!
 
