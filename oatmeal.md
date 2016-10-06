@@ -48,6 +48,19 @@ Serve in a cup and add the cooked banana on top and a bit of vanilla powder and 
 - Black/white pepper
 - goat milk
 
+## Stelle filanti
+### Ingredients 
+- 1/2 cup ricotta
+- nutmeg 
+- cane sugar 
+- salt
+
+### Topping 
+- stracciatella or burrata
+- honey
+- milk
+
+
 # Lovely overnight sugar-free oatmeal
 Yes, overnight! No need to cook or boil stuff. Oats will slowly cook themself in the fridge!
 
